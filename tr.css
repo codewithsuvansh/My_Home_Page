@@ -1,0 +1,51 @@
+.div1{
+  /* position: relative; */
+  /* left: 400px; */
+
+  /* left: 20px; */
+  position: fixed;
+  right: 200px;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.store{
+  /* width=500px; */
+  height: 600px;
+  width: 600px;
+  background-color: black;
+}
+.div2{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  position: absolute;
+  left: 200px;
+  top: 0;
+  /* bottom: 200px; */
+
+}
+.div3{
+  position: absolute;
+  left: 400px;
+  top: 0;
+
+  /* bottom: 400px; */
+  height: 200px;
+  width: 200px;
+  /* left: 200px; */
+  background-color: green;
+
+
+}
+body{
+  margin: 0;
+  /* background-color: pink; */
+}
+.ed{
+  position: absolute;
+  right: 20px;
+  height: 200px;
+  width: 200px;
+  background-color: purple;
+}
