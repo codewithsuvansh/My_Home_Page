@@ -152,6 +152,9 @@ p{
   color:  #11999E;
   font-weight: bold;
 }
+.footer-link:hover{
+  color: #30e3cb;
+}
 a{
   text-decoration:none;
   margin: 20px;
